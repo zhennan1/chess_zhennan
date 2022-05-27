@@ -1,0 +1,3 @@
+C:\Users\万振南\source\repos\chess_1zhennan\x64\Debug\chess_1zhennan.exe
+C:\Users\WanZh\source\repos\chess_1zhennan\x64\Debug\chess_1zhennan.exe
+C:\Users\WanZh\Desktop\chess_1zhennan\x64\Debug\chess_1zhennan.exe
