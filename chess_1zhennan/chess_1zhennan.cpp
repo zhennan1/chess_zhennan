@@ -62,7 +62,7 @@ int i = 0, j = 0, k = 0, n = 0, p = 0, bn = 0, wn = 0;
 int yn1 = 0, yn2 = 0, yn3 = 0;
 int sign = 0;  //sign：用于判断单次操作是否完成
 int mark = 0;  //mark: 用于判断棋子是否能落在某处
-int wb = 0;     //判断是白方还是黑方正在下棋
+int wb = 0;    //判断是白方还是黑方正在下棋
 
 //用于判断王车易位是否可行，1表示可以，0表示不可以
 int wCastling = 1, wCastling1 = 1, wCastling2 = 1;
@@ -496,7 +496,6 @@ void round()
 		if (sign)
 			break;
 	}
-
 	EndBatchDraw();
 }
 
@@ -607,7 +606,7 @@ int wQueen(int a[2])
 			{
 				temp[0] = a[0] - i;    //将假设移动后的横纵坐标写入二维数组temp
 				temp[1] = a[1];
-				wBlock(temp);        //调用wBlock函数，判断temp处是否有白棋，有则mark=1
+				wBlock(temp);          //调用wBlock函数，判断temp处是否有白棋，有则mark=1
 				if (mark == 0)
 				{
 					D[n][0] = temp[0]; //没有阻碍则将temp的横纵坐标写入可行域D
@@ -616,7 +615,7 @@ int wQueen(int a[2])
 				}
 				if (mark == 1)         //mark=1说明有白棋，无法再向远移动，因而退出循环
 					break;
-				bBlock(temp);        //调用bBlock函数，判断temp处是否有黑棋，有则mark=1
+				bBlock(temp);          //调用bBlock函数，判断temp处是否有黑棋，有则mark=1
 				if (mark == 1)         //mark=1说明有黑棋，无法再向远移动，因而退出循环
 					break;
 			}
