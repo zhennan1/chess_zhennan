@@ -10,7 +10,7 @@
 源代码：chess_1zhennan/chess_1zhennan.cpp
 
 最终修改日期：2022.5.29
-联系方式：wanzhentian5@gmail.com
+联系方式：wzn22@outlook.com
 
 
 Chess (C language)
@@ -24,4 +24,4 @@ Application: chess_1zhennan/x64/Debug/chess_1zhennan.exe
 Source code: chess_1zhennan/chess_1zhennan.cpp
 
 Last modification date: 2022.5.29
-Contact：wanzhentian5@gmail.com
+Contact：wzn22@outlook.com
