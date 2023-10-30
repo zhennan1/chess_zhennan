@@ -1,13 +1,15 @@
-﻿/*国际象棋（C语言） 2022年5月
+﻿/*国际象棋（C语言） 2023年10月
 作者：万振南 2021030014
 编译环境：Visual Studio 2022
-EasyX版本：EasyX_20220116
+EasyX版本：EasyX_20220901
 程序使用说明书*/;
+
+#pragma warning(disable : 4996)
 
 #undef UNICODE
 #undef _UNICODE
 
-#include <easyx.h>  
+#include <easyx.h>
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
@@ -135,7 +137,7 @@ void initial()  //开始
 	{
 		int flag = 0;
 		ExMessage m;  //定义消息变量
-		m = getmessage(EM_MOUSE | EM_KEY);  //从鼠标处获得消息
+		m = getmessage(EX_MOUSE | EX_KEY);  //从鼠标处获得消息
 		switch (m.message)
 		{
 		case (WM_LBUTTONDOWN):  //鼠标左键点击后
@@ -292,7 +294,7 @@ void click()
 			outtextxy(40, le * 4, bs);   //打印黑方倒计时字符串
 		}
 		FlushBatchDraw();
-		if (peekmessage(&m, EM_MOUSE | EM_KEY))
+		if (peekmessage(&m, EX_MOUSE | EX_KEY))
 		{
 			if (m.message == WM_LBUTTONDOWN)
 			{

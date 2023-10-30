@@ -2,3 +2,4 @@ C:\Users\万振南\source\repos\chess_1zhennan\x64\Debug\chess_1zhennan.exe
 C:\Users\WanZh\source\repos\chess_1zhennan\x64\Debug\chess_1zhennan.exe
 C:\Users\WanZh\Desktop\chess_1zhennan\x64\Debug\chess_1zhennan.exe
 C:\Users\WanZh\Documents\GitHub\chess_1zhennan\chess_1zhennan\x64\Debug\chess_1zhennan.exe
+D:\Downloads\chess_1zhennan-main (1)\chess_1zhennan-main\chess_1zhennan\x64\Debug\chess_1zhennan.exe

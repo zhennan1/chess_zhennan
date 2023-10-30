@@ -9,8 +9,8 @@
 应用程序：chess_1zhennan/x64/Debug/chess_1zhennan.exe
 源代码：chess_1zhennan/chess_1zhennan.cpp
 
-最终修改日期：2022.5.29
-联系方式：wzn22@outlook.com
+最终修改日期：2023年10月30日
+联系方式：wzn18@outlook.com
 
 
 Chess (C language)
@@ -23,5 +23,5 @@ Solution: chess_1zhennan/chess_1zhennan.sln
 Application: chess_1zhennan/x64/Debug/chess_1zhennan.exe 
 Source code: chess_1zhennan/chess_1zhennan.cpp
 
-Last modification date: 2022.5.29
-Contact：wzn22@outlook.com
+Last modification date: 2023.10.30
+Contact：wzn18@outlook.com
