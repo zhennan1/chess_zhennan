@@ -31,4 +31,4 @@ Source code: Chess_ 1 zhennan/chess_ 1zhennan.cpp
 
 If any issues are found, please contact us promptly wzn18@outlook.com
 
-*Last updated: 2023.10.30 by 1zhennan.*
+*Last updated: 2023.10.30 by zhennan.*
