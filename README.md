@@ -1,4 +1,4 @@
-# chess_1zhennan
+# chess_zhennan
 国际象棋（C语言实现）
 
 **运行国际象棋**
