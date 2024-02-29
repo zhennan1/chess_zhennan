@@ -1,9 +1,20 @@
 # chess_zhennan
+
 国际象棋（C语言实现）
 
-**运行国际象棋**
+Chess (implemented in C language)
 
-下载并运行 chess.msi，按提示安装并运行 chess.exe 
+<hr>
+
+**快速运行**
+
+下载并运行 chess.msi，按提示安装并运行 chess.exe
+
+**Simply Run**
+
+Download and run chess.msi, follow the prompts to install and run chess.exe
+
+<hr>
 
 **查看或修改代码**
 
@@ -13,22 +24,16 @@
 
 源代码：chess_1zhennan/chess_1zhennan.cpp
 
-如果发现任何问题，请及时联系 wzn18@outlook.com
-
-Chess (implemented in C language)
-
-**Run Chess**
-
-Download and run chess.msi, follow the prompts to install and run chess.exe
-
 **View or modify code**
 
 Suggest downloading and unzipping the entire content of the folder chess_1zhennan. Open the .sln file using Visual Studio and edit it under the solution. The graphical functionality relies on the Easyx application and you can download and install the provided version. You can also refer to the program design documentation and program user manual
 
 Version: Visual Studio 2022, Easyx_20220901
 
-Source code: Chess_ 1 zhennan/chess_ 1zhennan.cpp
+Source code: chess_1zhennan/chess_1zhennan.cpp
 
-If any issues are found, please contact us promptly wzn18@outlook.com
+<hr>
 
-*Last updated: 2023.10.30 by zhennan.*
+如果发现任何问题，请及时联系
+
+If any issues are found, please contact us.
